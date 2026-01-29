@@ -10,8 +10,10 @@ This project analyzes customer churn to identify service-related factors that im
 
 ### 🛠️ Tools & Technologies
 - Python  
-- Pandas  
-- Matplotlib  
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn  
 - Jupyter Notebook  
 
 ### 📌 Conclusion
